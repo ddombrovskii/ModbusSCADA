@@ -1,0 +1,21 @@
+Servers:
+  - 1:
+    - reg1:
+        reg_addr: 0
+        reg_type: "Word"
+
+    - reg2:
+        reg_addr: 1
+        reg_type: "Float"
+  - 2:
+    - reg1:
+        reg_addr: 0
+        reg_type: "Integer"
+
+    - reg2:
+        reg_addr: 1
+        reg_type: "Word"
+
+    - reg3:
+        reg_addr: 2
+        reg_type: "Float"
